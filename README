@@ -1,0 +1,10 @@
+bash looks icky so this is going to be done in ruby.
+
+this script will do something with the most recently created file in said directory.
+
+you will be able to specify your text editor of choice if your choice is one of the following: vim, vi, nano, ya know..
+
+amongst those somethings that this script will do to that most recently created file..
+--open it in a text editor
+--tail it
+--other stuff
